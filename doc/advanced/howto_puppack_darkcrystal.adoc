@@ -9,7 +9,7 @@ This is a guide on the items that were required to get the PupPack for The Dark 
 [IMPORTANT]
 .Every Puppack is Unique
 ====
-No two puppacks are unique and there are xref:vbspupguide.adoc#_missing_features_and_bugs[limitations] to what is supported.  Most commonly used functions are supported.   No Transparent backgrounds are supported, you get a black screen.   See the xref:vbspupguide.adoc[VBS & Puppack Guide] for more common issues.
+No two puppacks are the same.  Each is fairly unique and there are xref:vbspupguide.adoc#_missing_features_and_bugs[limitations] to what is supported by vpx-standalone.  Most commonly used functions are supported.   Transparent backgrounds are not supported, you get a black screen.   See the xref:vbspupguide.adoc[VBS & Puppack Guide] for more common issues.
 ====
 
 == Table Settings
