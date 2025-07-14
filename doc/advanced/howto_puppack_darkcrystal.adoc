@@ -1,0 +1,38 @@
+= How To - Dark Cystal PupPack Troubleshooting Guide
+Silentkat <silentcat@someplace.com>
+:toc: left
+:toclevels: 4
+:icons: font
+
+This is a guide on the items that were required to get the PupPack for The Dark Crystal table working on vpx-standalone-alp4k.   While the issues here may be encountered in other tables, and similar workarounds implemented, this document is to provide a little more indepth troubleshooting for one particular table.
+
+[IMPORTANT]
+.Every Puppack is Unique
+====
+No two puppacks are unique and there are xref:vbspupguide.adoc#_missing_features_and_bugs[limitations] to what is supported.  Most commonly used functions are supported.   No Transparent backgrounds are supported, you get a black screen.   See the xref:vbspupguide.adoc[VBS & Puppack Guide] for more common issues.
+====
+
+== Table Settings
+
+Updates for what should be in the table settings for this pup pack if any.
+
+== Pup CSV files
+
+=== Playlist
+
+=== Screens
+
+=== Triggers
+
+== Backglass
+
+=== Topper
+
+=== Main Content
+
+=== Bottom
+
+== DMD
+
+== VBS Changes
+
